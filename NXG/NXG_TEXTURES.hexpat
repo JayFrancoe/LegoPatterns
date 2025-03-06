@@ -26,10 +26,10 @@ struct NuTexGenHDR_V12
 struct NuTexGenHDR_V14
 {
     NuTexGenHDR_V12 HDR;
-    u8 flags;
-    u8 m_level;
+    u8 Unknown1;
+    u8 Unkown2;
     u16 Unknown3;
-    String16 ObjectID;
+    String16 Unkown4;
     u8 fixupTypeAsU8;
 };
 
